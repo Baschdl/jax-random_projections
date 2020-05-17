@@ -10,7 +10,7 @@ setup(
   author = 'Sebastian Bischoff',
   author_email = 'sebastian@salzreute.de',
   url = 'https://github.com/Baschdl/jax-random_projections',
-  download_url = 'https://github.com/Baschdl/jax-random_projections/archive/v_10.tar.gz',
+  download_url = 'https://github.com/Baschdl/jax-random_projections/archive/v1.0.tar.gz',
   keywords = ['random projections', 'jax', 'GPU'],
   install_requires=[
           'sklearn',
